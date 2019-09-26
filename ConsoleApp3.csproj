@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="akarnokd.reactive_extensions" Version="0.0.27-alpha" />
+        <PackageReference Include="System.Reactive" Version="4.1.6" />
+    </ItemGroup>
+</Project>
